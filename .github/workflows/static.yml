@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marcio Martins | Desenvolvedor Web</title>
+    <link rel="stylesheet" href="styles.css">
+    <a href="https://marciomartins42anos-cell.github.io/sait-para-eletrecista/" class="btn">Ver projeto</a>
+</head>
+
+<body>
+
+    <header class="hero">
+        <h1>Marcio Martins</h1>
+        <p>Desenvolvedor Web | HTML, CSS, Java, React</p>
+        <a href="#contato" class="btn">Fale comigo</a>
+    </header>
+
+    <section>
+        <h2>Sobre Mim</h2>
+        <p>
+            Profissional da área elétrica em transição para desenvolvimento web.
+            Tenho experiência com HTML, CSS, Java e React, criando sites modernos
+            com foco em resultado e experiência do usuário.
+        </p>
+    </section>
+
+    <section>
+        <h2>Projetos</h2>
+        <div class="grid">
+
+            <div class="card">
+                <h3>Site para Eletricista</h3>
+                <p>Landing page com foco em captação de clientes via WhatsApp.</p>
+                <a href="https://marciomartins42anos-cell.github.io/sait-para-eletrecista/" class="btn">Ver projeto</a>
+            </div>
+
+            <div class="card">
+                <h3>Landing Page Comercial</h3>
+                <p>Site moderno para pequenos negócios.</p>
+                <a href="https://marciomartins42anos-cell.github.io/sait-para-eletrecista/" class="btn">Ver projeto</a>
+
+            </div>
+
+        </div>
+    </section>
+
+    <section>
+        <h2>Serviços</h2>
+        <div class="grid">
+            <div class="card">Criação de sites</div>
+            <div class="card">Landing pages</div>
+            <div class="card">Manutenção de sites</div>
+        </div>
+    </section>
+
+    <section id="contato">
+        <h2>Contato</h2>
+        <p>Vamos trabalhar juntos?</p>
+        <a href="https://wa.me/5554996926678" class="btn">WhatsApp</a>
+    </section>
+
+</body>
+
+</html>
